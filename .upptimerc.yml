@@ -1,0 +1,21 @@
+owner: Sangwas
+repo: upptime
+
+sites:
+  - name: Sancommunity
+    url: https://sancommunity.com
+  - name: Sancommunity API
+    url: $BACKEND_URL
+
+
+status-website:
+  baseUrl: /upptime
+  logoUrl: https://www.sancommunity.com/icons/Icon-192.png
+  name: Sancommunity Upptime
+  introTitle: Sancommunity
+  introMessage: Sancommunity
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
