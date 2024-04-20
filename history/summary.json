@@ -22,17 +22,19 @@
     "url": "$BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sancommunity-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1853,
-    "timeDay": 258,
-    "timeWeek": 1853,
-    "timeMonth": 1853,
-    "timeYear": 1853,
-    "dailyMinutesDown": {}
+    "time": 3427,
+    "timeDay": 4204,
+    "timeWeek": 3427,
+    "timeMonth": 3427,
+    "timeYear": 3427,
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   }
 ]
