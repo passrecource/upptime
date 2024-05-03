@@ -22,7 +22,7 @@
     "url": "$BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sancommunity-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 3126,
     "timeMonth": 3571,
     "timeYear": 3571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   }
 ]
