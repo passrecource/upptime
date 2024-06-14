@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 588,
-    "timeWeek": 530,
-    "timeMonth": 503,
-    "timeYear": 507,
+    "time": 505,
+    "timeDay": 348,
+    "timeWeek": 503,
+    "timeMonth": 498,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "sancommunity-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1695,
-    "timeDay": 1088,
-    "timeWeek": 843,
-    "timeMonth": 653,
-    "timeYear": 1695,
+    "time": 1674,
+    "timeDay": 226,
+    "timeWeek": 639,
+    "timeMonth": 643,
+    "timeYear": 1674,
     "dailyMinutesDown": {
       "2024-06-12": 20
     }
