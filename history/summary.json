@@ -4,18 +4,20 @@
     "url": "https://sancommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/sancommunity.com.ico",
     "slug": "sancommunity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 1155,
-    "timeWeek": 623,
-    "timeMonth": 540,
-    "timeYear": 519,
-    "dailyMinutesDown": {}
+    "time": 514,
+    "timeDay": 647,
+    "timeWeek": 563,
+    "timeMonth": 527,
+    "timeYear": 514,
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Sancommunity API",
