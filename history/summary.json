@@ -4,19 +4,19 @@
     "url": "https://sancommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/sancommunity.com.ico",
     "slug": "sancommunity",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "84.31%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.79%",
-    "time": 514,
-    "timeDay": 647,
-    "timeWeek": 563,
-    "timeMonth": 527,
-    "timeYear": 514,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "73.00%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.63%",
+    "time": 513,
+    "timeDay": 565,
+    "timeWeek": 545,
+    "timeMonth": 523,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-07-01": 226
+      "2024-07-01": 389
     }
   },
   {
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sancommunity-api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1443,
     "timeDay": 1076,
     "timeWeek": 616,
     "timeMonth": 715,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2024-07-01": 13,
       "2024-06-12": 20
     }
   }
