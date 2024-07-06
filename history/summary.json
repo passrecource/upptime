@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sancommunity.com.ico",
     "slug": "sancommunity",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.14%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.65%",
-    "time": 504,
-    "timeDay": 352,
-    "timeWeek": 459,
-    "timeMonth": 503,
-    "timeYear": 504,
+    "uptimeYear": "99.66%",
+    "time": 503,
+    "timeDay": 401,
+    "timeWeek": 430,
+    "timeMonth": 501,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2024-07-01": 389
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1386,
-    "timeDay": 275,
-    "timeWeek": 562,
-    "timeMonth": 706,
-    "timeYear": 1386,
+    "time": 1376,
+    "timeDay": 467,
+    "timeWeek": 559,
+    "timeMonth": 581,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2024-06-12": 20
     }
